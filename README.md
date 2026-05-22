@@ -60,31 +60,6 @@ interests: [Cloud, DevOps, Automation, Linux]
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtlastZ&show_icons=true&hide_border=true&count_private=true&title_color=0891b2&text_color=e7e5e4&icon_color=0891b2&bg_color=0c0a09&ring_color=0891b2&hide_title=false" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtlastZ&hide_border=true&stroke=0891b2&background=0c0a09&ring=0891b2&fire=0891b2&currStreakNum=e7e5e4&sideNums=e7e5e4&sideLabels=a8a29e&dates=a8a29e&currStreakLabel=0891b2" height="165" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlastZ&layout=compact&langs_count=8&title_color=0891b2&text_color=e7e5e4&icon_color=0891b2&bg_color=0c0a09&hide_border=true&custom_title=Top%20Languages" height="165" alt="Top languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=AtlastZ&theme=onestar&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="GitHub trophies" />
-
-</div>
-
-<br />
-
-<!-- Contribution snake animation (auto-updated by GitHub Action) -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AtlastZ/AtlastZ/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
----
-
 ### Connect
 
 <div align="center">
