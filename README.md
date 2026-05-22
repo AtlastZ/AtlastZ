@@ -27,20 +27,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&duration=2800&pause=900&color=0891B2&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=%24+kubectl+get+nodes;%E2%9C%94%EF%B8%8F++node-1++++Ready++++control-plane;%24+docker+ps+--format+%22table+%7B%7B.Names%7D%7D%22;atlas-api++++Up+3+days;%24+terraform+apply+-auto-approve;%E2%9C%94%EF%B8%8F++Apply+complete%21+Resources%3A+12+added" alt="Terminal animation" />
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtlastZ&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=AtlastZ&theme=vue&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff" height="165" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?user=AtlastZ&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0891b2&line=ffffff&point=0891b2&radius=8" width="100%" alt="Contribution activity graph" />
-
-</div>
 
 ---
 
