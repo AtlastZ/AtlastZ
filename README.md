@@ -163,13 +163,11 @@ graph LR
 
 | Goal | Status |
 |:-----|:------:|
-| Google Cloud Associate Cloud Engineer | 📖 Studying |
-| Certified Kubernetes Administrator (CKA) | 🎯 Planned |
+| Certified Kubernetes Application Developer (CKAD) | 🎯 Planned |
 | Docker Certified Associate (DCA) | 🎯 Planned |
 
 <br />
 
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
