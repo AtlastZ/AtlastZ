@@ -1,36 +1,39 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:164e63&height=180&section=header&text=Peerapat%20Sukkasem&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Infra%20%7C%20Platform%20Engineer&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Peerapat Sukkasem" />
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+reliable+cloud+infrastructure;Automating+platforms+with+Docker+%26+Kubernetes;Always+learning+something+new" alt="Typing animation" />
+<!-- ═══════════════════ RGB HERO + DYNAMIC BACKGROUND ═══════════════════ -->
+<img src="./assets/rgb-hero.svg" width="100%" alt="AtlastZ RGB Hero" />
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="wave" />
-<b>Hi, I'm Peerapat — welcome to my profile</b>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" alt="wave" />
+
+<br />
+
+[![Email](https://img.shields.io/badge/peer.forwork@gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:peer.forwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0a0a0f&labelColor=0a0a0f)](https://www.linkedin.com/in/peerapat-sukkasem-6769a924a/)
+[![GitHub](https://img.shields.io/badge/GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/AtlastZ)
 
 <br /><br />
 
-[![Email](https://img.shields.io/badge/peer.forwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peer.forwork@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapat-sukkasem-6769a924a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtlastZ)
-
-<img src="https://komarev.com/ghpvc/?username=AtlastZ&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AtlastZ&label=PLAYERS+ONLINE&color=8338ec&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### 🖥️ Terminal
+## <img src="https://media.giphy.com/media/WUPLBfMd5eO0E/giphy.gif" width="28" align="top" alt="terminal" /> `SYSTEM TERMINAL`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&duration=2800&pause=900&color=0891B2&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=%24+kubectl+get+nodes;%E2%9C%94%EF%B8%8F++node-1++++Ready++++control-plane;%24+docker+ps+--format+%22table+%7B%7B.Names%7D%7D%22;atlas-api++++Up+3+days;%24+terraform+apply+-auto-approve;%E2%9C%94%EF%B8%8F++Apply+complete%21+Resources%3A+12+added" alt="Terminal animation" />
+<div align="center">
 
+<img src="./assets/rgb-terminal.svg" width="680" alt="RGB terminal" />
 
----
+</div>
 
-### 🐍 Contribution Snake
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
+
+## 🐍 `CONTRIBUTION SNAKE — HIGH SCORE RUN`
 
 <div align="center">
 
@@ -42,154 +45,166 @@
 
 </div>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### 🏆 Trophies & Languages
+## 🏆 `ACHIEVEMENTS UNLOCKED`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AtlastZ&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AtlastZ&theme=radical&no-frame=true&column=4&margin-w=12&margin-h=12" width="100%" alt="GitHub trophies" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlastZ&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff&langs_count=8" height="180" alt="Top languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtlastZ&theme=vue" height="180" alt="Profile details" />
+<img src="https://github-readme-stats.vercel.app/api?username=AtlastZ&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=ff00aa&text_color=e0e0e0&border_radius=10&ring_color=8338ec" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlastZ&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=bf00ff&text_color=e0e0e0&langs_count=8&border_radius=10" height="165" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtlastZ&theme=radical&hide_border=true&background=0a0a0f&ring=00d4ff&fire=ff00aa&currStreakLabel=8338ec&sideLabels=0080ff&border_radius=10" width="520" alt="GitHub streak" />
 
 </div>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### About Me
+## 👾 `PLAYER CARD`
 
-```yaml
-name: Peerapat Sukkasem
-role: Infra | Platform Engineer
-location: Thailand
-currently_learning: Kube-Cluster Deployment
-interests: [Cloud, DevOps, Automation, Linux]
+```diff
++ ╔══════════════════════════════════════════╗
++ ║  CODENAME    │  Peerapat Sukkasem        ║
++ ║  CLASS       │  Infra | Platform Engineer║
++ ║  REGION      │  Thailand 🇹🇭              ║
++ ║  CURRENT Q   │  Kube-Cluster Deployment  ║
++ ║  BUFFS       │  Cloud · DevOps · Linux   ║
++ ╚══════════════════════════════════════════╝
 ```
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### 🛠 Tech Stack
+## ⚔️ `LOADOUT — TECH STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,gcp,vscode,arduino,bash,githubactions&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,gcp,vscode,arduino,bash,githubactions&theme=dark&perline=8" alt="Tech stack" />
 
 </div>
 
 <br />
 
 <details open>
-<summary><b>Skill levels</b></summary>
+<summary><b>🎮 SKILL TREE — XP LEVELS</b></summary>
 <br />
 
 ```
-Docker          ████████░░  80%
-Linux / Bash    ████████░░  80%
-Git / GitHub    ███████░░░  70%
-GCP             ██████░░░░  60%
-Kubernetes      ██████░░░░  60%
-GitHub Actions  ██████░░░░  60%
-Terraform       █████░░░░░  50%
-Arduino         ████░░░░░░  40%
+Docker          ████████░░  LVL 80  ⚡ MASTER
+Linux / Bash    ████████░░  LVL 80  ⚡ MASTER
+Git / GitHub    ███████░░░  LVL 70  🔥 ELITE
+GCP             ██████░░░░  LVL 60  💎 ADVANCED
+Kubernetes      ██████░░░░  LVL 60  💎 ADVANCED
+GitHub Actions  ██████░░░░  LVL 60  💎 ADVANCED
+Terraform       █████░░░░░  LVL 50  🎯 SKILLED
+Arduino         ████░░░░░░  LVL 40  📡 RISING
 ```
 
 </details>
 
 <details>
-<summary><b>More tools & platforms</b></summary>
+<summary><b>🗃️ INVENTORY — MORE TOOLS</b></summary>
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/macOS-FF006E?style=for-the-badge&logo=apple&logoColor=white&labelColor=0a0a0f" alt="macOS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-0080FF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0a0a0f" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/VS%20Code-00D4FF?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0f&labelColor=0a0a0f" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Arduino-8338EC?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0a0a0f" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Docker-BF00FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0f" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-FF00AA?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0a0f" alt="Kubernetes" />
 </p>
 
 </details>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### 🚀 Featured Projects
+## 🚀 `ACTIVE QUESTS`
 
-> 🚧 Repositories coming soon — here's what I'm building toward
+> ⚡ Side missions loading — here's the main storyline
 
 <div align="center">
 
-| Project | Status | Stack |
-|:--------|:------:|:------|
-| **Kube-Cluster Deployment** | 🔨 In Progress | Kubernetes, GCP, Helm |
-| **Platform Automation Toolkit** | 📋 Planned | Docker, Bash, GitHub Actions |
-| **CI/CD Pipeline Templates** | 📋 Planned | GitHub Actions, Docker |
+| 🎯 Quest | Status | Loadout |
+|:---------|:------:|:--------|
+| **Kube-Cluster Deployment** | 🔴 IN PROGRESS | Kubernetes, GCP, Helm |
+| **Platform Automation Toolkit** | 🟡 QUEUED | Docker, Bash, GitHub Actions |
+| **CI/CD Pipeline Templates** | 🟡 QUEUED | GitHub Actions, Docker |
 
 </div>
 
 <br />
 
 <details>
-<summary><b>🏗 Target architecture — Kube-Cluster Deployment</b></summary>
+<summary><b>🗺️ QUEST MAP — Kube-Cluster Deployment</b></summary>
 <br />
 
 ```mermaid
 graph LR
-    A[Developer] -->|git push| B[GitHub Actions]
-    B -->|build & test| C[Container Registry]
-    C -->|deploy| D[GKE Cluster]
-    D --> E[Ingress / Load Balancer]
-    E --> F[Production Workloads]
+    A[🎮 Developer] -->|git push| B[⚡ GitHub Actions]
+    B -->|build & test| C[📦 Container Registry]
+    C -->|deploy| D[☸️ GKE Cluster]
+    D --> E[🌐 Ingress / LB]
+    E --> F[🏆 Production Workloads]
 
-    style A fill:#0891b2,color:#fff
-    style B fill:#164e63,color:#fff
-    style C fill:#0891b2,color:#fff
-    style D fill:#164e63,color:#fff
-    style E fill:#0891b2,color:#fff
-    style F fill:#164e63,color:#fff
+    style A fill:#ff006e,color:#fff,stroke:#00d4ff,stroke-width:2px
+    style B fill:#8338ec,color:#fff,stroke:#ff00aa,stroke-width:2px
+    style C fill:#0080ff,color:#fff,stroke:#bf00ff,stroke-width:2px
+    style D fill:#00d4ff,color:#0a0a0f,stroke:#8338ec,stroke-width:2px
+    style E fill:#bf00ff,color:#fff,stroke:#0080ff,stroke-width:2px
+    style F fill:#0a0a0f,color:#00d4ff,stroke:#ff006e,stroke-width:2px
 ```
 
 </details>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### 🎯 Learning Path
+## 🎯 `BOSS FIGHTS — CERTIFICATIONS`
 
-> Certifications & credentials — work in progress
+> 🏅 Raid bosses ahead — grinding XP
 
 <div align="center">
 
-| Goal | Status |
+| Boss | Status |
 |:-----|:------:|
-| Certified Kubernetes Application Developer (CKAD) | 🎯 Planned |
-| Docker Certified Associate (DCA) | 🎯 Planned |
+| Certified Kubernetes Application Developer (CKAD) | 🔒 LOCKED — Target acquired |
+| Docker Certified Associate (DCA) | 🔒 LOCKED — Target acquired |
 
 <br />
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-BF00FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0a0f" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Docker-00D4FF?style=for-the-badge&logo=docker&logoColor=0a0a0f&labelColor=0a0a0f" alt="Docker" />
 
 </div>
 
----
+<img src="./assets/rgb-bg-panel.svg" width="100%" alt="dynamic bg" />
+<img src="./assets/rgb-divider.svg" width="100%" alt="divider" />
 
-### Connect
+## 📡 `MULTIPLAYER — CONNECT`
 
 <div align="center">
 
 <a href="https://discord.com/users/reibiellia" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-8338EC?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f" alt="Discord" />
 </a>
 <a href="https://www.facebook.com/peerapat.suk.1/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-FF006E?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0f" alt="Facebook" />
 </a>
 <a href="http://www.instagram.com/peerapat.suk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-FF00AA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/peerapat-sukkasem-6769a924a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0080FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" alt="LinkedIn" />
 </a>
 
 </div>
@@ -197,5 +212,7 @@ graph LR
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:164e63&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=scaleIn" width="100%" alt="Footer" />
+
+<img src="./assets/rgb-footer.svg" width="100%" alt="Footer RGB" />
+
 </div>

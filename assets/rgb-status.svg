@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 90" width="720" height="90">
+  <defs>
+    <filter id="h1">
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" from="0" to="360" dur="3s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+    <filter id="h2">
+      <feColorMatrix type="hueRotate" values="120">
+        <animate attributeName="values" from="120" to="480" dur="3s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+    <filter id="h3">
+      <feColorMatrix type="hueRotate" values="240">
+        <animate attributeName="values" from="240" to="600" dur="3s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+  </defs>
+
+  <text x="360" y="22" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#ff006e" filter="url(#h1)">º PLAYER: Peerapat Sukkasem</text>
+  <text x="360" y="50" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#00ffff" filter="url(#h2)">º CLASS: Infra | Platform Engineer</text>
+  <text x="360" y="78" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#39ff14" filter="url(#h3)">º STATUS: ONLINE  Building the cloud one cluster at a time</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 168" width="680" height="168">
+  <defs>
+    <linearGradient id="mesh" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff006e" stop-opacity="0.25">
+        <animate attributeName="stop-color" values="#ff006e;#8338ec;#0080ff;#ff006e" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0080ff" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#0080ff;#bf00ff;#ff00aa;#0080ff" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8338ec" stroke-width="0.35" opacity="0.1"/>
+    </pattern>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff006e">
+        <animate attributeName="stop-color" values="#ff006e;#8338ec;#00d4ff;#bf00ff;#ff006e" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0080ff">
+        <animate attributeName="stop-color" values="#0080ff;#bf00ff;#ff00aa;#8338ec;#0080ff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="blobBlur">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="678" height="166" fill="#06060c" rx="6"/>
+  <rect x="1" y="1" width="678" height="166" fill="url(#mesh)" rx="6"/>
+
+  <circle cx="80" cy="40" r="60" fill="#8338ec" opacity="0.15" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="80;600;80" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="580" cy="120" r="70" fill="#0080ff" opacity="0.12" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="580;100;580" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <g clip-path="inset(1px round 6px)">
+    <rect x="0" y="-36" width="680" height="240" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 36" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="678" height="166" fill="none" stroke="url(#border)" stroke-width="2" rx="6"/>
+
+  <g font-family="ui-monospace, monospace" font-size="13" font-weight="600">
+    <text x="16" y="28" fill="#ff006e">$ sudo init platform_engineer.sh</text>
+    <text x="16" y="50" fill="#8338ec">&#9658; Loading modules: docker k8s terraform...</text>
+    <text x="16" y="72" fill="#00d4ff">&#9658; [OK] GCP cluster online - 12 nodes ready</text>
+    <text x="16" y="94" fill="#bf00ff">$ kubectl get nodes | grep Ready</text>
+    <text x="16" y="116" fill="#0080ff">&#9658; node-1 | Ready | control-plane | 3d</text>
+    <text x="16" y="138" fill="#ff00aa">$ docker ps - atlas-api | Up 3 days | HEALTHY</text>
+    <text x="16" y="160" fill="#8338ec">$ echo "&gt; Mission: Ship reliable infra"</text>
+  </g>
+
+  <rect x="392" y="148" width="8" height="14" fill="#00d4ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00d4ff;#ff00aa;#8338ec;#00d4ff" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

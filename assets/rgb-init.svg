@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 32" width="520" height="32">
+  <defs>
+    <filter id="hue">
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" from="0" to="360" dur="2.5s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+  </defs>
+  <text x="260" y="22" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#39ff14" filter="url(#hue)">&gt; INITIALIZING PLAYER PROFILE... OK</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 6" width="800" height="6" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff006e">
+        <animate attributeName="stop-color" values="#ff006e;#8338ec;#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="33%" stop-color="#8338ec">
+        <animate attributeName="stop-color" values="#8338ec;#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e;#8338ec" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="66%" stop-color="#0080ff">
+        <animate attributeName="stop-color" values="#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e;#8338ec;#0080ff" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff00aa">
+        <animate attributeName="stop-color" values="#ff00aa;#ff006e;#8338ec;#0080ff;#00d4ff;#bf00ff;#ff00aa" dur="2.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="6" fill="url(#bar)" filter="url(#glow)" rx="3"/>
+</svg>

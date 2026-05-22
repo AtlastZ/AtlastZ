@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="50%" stop-color="#12121f"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0040">
+        <animate attributeName="stop-color" values="#ff0040;#ff8000;#ffe600;#39ff14;#00ffff;#0080ff;#bf00ff;#ff00aa;#ff0040" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00ffff">
+        <animate attributeName="stop-color" values="#00ffff;#0080ff;#bf00ff;#ff00aa;#ff0040;#ff8000;#ffe600;#39ff14;#00ffff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#bf00ff">
+        <animate attributeName="stop-color" values="#bf00ff;#ff00aa;#ff0040;#ff8000;#ffe600;#39ff14;#00ffff;#0080ff;#bf00ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hue">
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+  </defs>
+
+  <rect width="800" height="220" fill="url(#bg)" rx="8"/>
+  <rect x="8" y="8" width="784" height="204" fill="none" stroke="url(#rgb)" stroke-width="2" rx="6" opacity="0.85"/>
+  <g opacity="0.06">
+    <rect x="0" y="0" width="800" height="220" fill="url(#scan)"/>
+  </g>
+
+  <text x="400" y="108" text-anchor="middle" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="72" font-weight="900" letter-spacing="6" fill="url(#rgb)" filter="url(#glow)" opacity="0.9">ATL&#923;STZ</text>
+  <text x="400" y="108" text-anchor="middle" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="72" font-weight="900" letter-spacing="6" fill="url(#rgb)">ATL&#923;STZ</text>
+
+  <text x="400" y="148" text-anchor="middle" font-family="ui-monospace, monospace" font-size="14" letter-spacing="4" fill="#888888" filter="url(#hue)">&#9670; RGB GAMING MODE - CYBER LOADOUT ACTIVE &#9670;</text>
+</svg>

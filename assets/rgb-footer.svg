@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <defs>
+    <linearGradient id="bpp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff006e">
+        <animate attributeName="stop-color" values="#ff006e;#8338ec;#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8338ec">
+        <animate attributeName="stop-color" values="#8338ec;#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e;#8338ec" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0080ff">
+        <animate attributeName="stop-color" values="#0080ff;#00d4ff;#bf00ff;#ff00aa;#ff006e;#8338ec;#0080ff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="mesh" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff006e" stop-opacity="0.4">
+        <animate attributeName="stop-color" values="#ff006e;#8338ec;#0080ff;#bf00ff;#ff006e" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0080ff" stop-opacity="0.3">
+        <animate attributeName="stop-color" values="#0080ff;#bf00ff;#ff00aa;#8338ec;#0080ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="15s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00d4ff" stroke-width="0.3" opacity="0.12"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="blobBlur">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="100" fill="#040408" rx="8"/>
+  <rect width="800" height="100" fill="url(#mesh)" rx="8" opacity="0.5"/>
+
+  <circle cx="100" cy="50" r="70" fill="#8338ec" opacity="0.2" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="100;700;100" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="50" r="80" fill="#0080ff" opacity="0.15" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="700;100;700" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <g clip-path="inset(0 round 8px)">
+    <rect x="0" y="-40" width="800" height="180" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 40" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M0,20 Q200,60 400,20 T800,20 L800,0 L0,0 Z" fill="url(#bpp)" opacity="0.2"/>
+  <rect x="4" y="4" width="792" height="92" fill="none" stroke="url(#bpp)" stroke-width="1.5" rx="6" opacity="0.7"/>
+
+  <text x="400" y="52" text-anchor="middle" font-family="Impact, Haettenschweiler, Arial Black, sans-serif" font-size="28" font-weight="900" letter-spacing="2" fill="url(#bpp)" filter="url(#glow)">GG WP - Thanks for visiting!</text>
+  <text x="400" y="78" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" letter-spacing="3" fill="#ff00aa">
+    <animate attributeName="fill" values="#ff00aa;#8338ec;#00d4ff;#bf00ff;#ff00aa" dur="3s" repeatCount="indefinite"/>
+    INSERT COIN TO CONTINUE
+  </text>
+</svg>
